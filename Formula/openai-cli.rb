@@ -1,4 +1,4 @@
-class OpenAiCli < Formula
+class OpenaiCli < Formula
   desc "OpenAI API CLI able to chat/completion written in Rust"
   homepage "https://github.com/gumybit/openai-cli"
   url "https://github.com/gumybit/openai-cli/releases/download/v0.1.0/openai-cl.mac.tar.gz"
