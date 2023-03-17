@@ -1,8 +1,8 @@
 class OpenAiCli < Formula
   desc "OpenAI API CLI able to chat/completion written in Rust"
   homepage "https://github.com/gumybit/openai-cli"
-  url "https://github.com/gumybit/openai-cli/releases/download/v0.1.0/openai-cli-0.1.0-x86_64-apple-darwin.tar.gz"
-  sha256 "4d883f6cf5ba5764c2942955145ff060a9fa4e12d4a314d8418b37d91daf0450"
+  url "https://github.com/gumybit/openai-cli/releases/download/v0.1.0/openai-cl.mac.tar.gz"
+  sha256 "ddc1a76dc244fea3688e75e776009c160fabc7e1b68b22f585ec44032ff29beb"
   version "0.1.0"
 
   def install
